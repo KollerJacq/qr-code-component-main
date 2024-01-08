@@ -10,6 +10,7 @@ body {
   justify-content: center;
   letter-spacing: 1px;
   min-height: 90vh;
+  margin-top: -40px;
 }
 .card {
   border-radius: 20px;
